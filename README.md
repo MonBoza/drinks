@@ -11,15 +11,39 @@ A practice API for drinks
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/MonBoza/drinks.git`
-2. Install dependencies: `npm install`
+1. Clone the repository:
+
+```bash
+git clone https://github.com/MonBoza/drinks.git
+```
+
+2. Create your virtual environment
+
+```bash
+python -m venv [your environment name i called my ".venv"]
+```
+
+3. Activate your virtual environment
+
+```bash
+. .venv/bin/activate
+```
+
+4. Install dependencies:
+
+```bash
+pip install django
+```
+
+```bash
+pip install djangorestframework [project name] .
+```
+
+- note the . at the end is to start the project at the current directory
 
 ## Usage
 
-
-## API Documentation
-
-
+- Create, Read, Update and Delete API objects
 
 ## Contributing
 
