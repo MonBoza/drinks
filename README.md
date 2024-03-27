@@ -1,6 +1,5 @@
-# API Name
+# Drinks
 
-[![Build Status](https://img.shields.io/github/workflow/status/MonBoza/drinks/CI)](https://github.com/MonBoza/drinks.git)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
