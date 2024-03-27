@@ -20,7 +20,7 @@ git clone https://github.com/MonBoza/drinks.git
 2. Create your virtual environment
 
 ```bash
-python -m venv [your environment name i called my ".venv"]
+python -m venv .[your environment name] ]
 ```
 
 3. Activate your virtual environment
